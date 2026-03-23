@@ -1,0 +1,2 @@
+0 Lugar_Vacio
+1 Lugar_Ocupado
